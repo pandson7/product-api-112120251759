@@ -1,0 +1,86 @@
+[
+  {
+    "name": "iPhone 15 Pro",
+    "category": "Electronics",
+    "brand": "Apple",
+    "description": "Latest iPhone with titanium design and A17 Pro chip",
+    "price": 999.99,
+    "specifications": {
+      "display": "6.1-inch Super Retina XDR",
+      "storage": "128GB",
+      "camera": "48MP Main, 12MP Ultra Wide, 12MP Telephoto",
+      "color": "Natural Titanium",
+      "weight": "187g"
+    }
+  },
+  {
+    "name": "MacBook Air M3",
+    "category": "Electronics",
+    "brand": "Apple",
+    "description": "Ultra-thin laptop with M3 chip and all-day battery life",
+    "price": 1299.99,
+    "specifications": {
+      "processor": "Apple M3 chip",
+      "memory": "16GB unified memory",
+      "storage": "512GB SSD",
+      "display": "13.6-inch Liquid Retina",
+      "weight": "1.24kg"
+    }
+  },
+  {
+    "name": "Classic Cotton T-Shirt",
+    "category": "Clothing",
+    "brand": "BasicWear",
+    "description": "Comfortable 100% cotton t-shirt for everyday wear",
+    "price": 24.99,
+    "specifications": {
+      "material": "100% Cotton",
+      "fit": "Regular",
+      "care": "Machine washable",
+      "sizes": ["S", "M", "L", "XL"],
+      "colors": ["White", "Black", "Navy", "Gray"]
+    }
+  },
+  {
+    "name": "Running Sneakers Pro",
+    "category": "Clothing",
+    "brand": "SportMax",
+    "description": "High-performance running shoes with advanced cushioning",
+    "price": 129.99,
+    "specifications": {
+      "type": "Running shoes",
+      "material": "Mesh upper with synthetic overlays",
+      "sole": "EVA midsole with rubber outsole",
+      "features": ["Breathable", "Lightweight", "Shock absorption"],
+      "sizes": ["7", "8", "9", "10", "11", "12"]
+    }
+  },
+  {
+    "name": "Ergonomic Office Chair",
+    "category": "Home & Garden",
+    "brand": "ComfortSeating",
+    "description": "Adjustable office chair with lumbar support and breathable mesh",
+    "price": 299.99,
+    "specifications": {
+      "material": "Mesh back with fabric seat",
+      "adjustments": ["Height", "Armrests", "Tilt"],
+      "weight_capacity": "150kg",
+      "dimensions": "65cm W x 65cm D x 110-120cm H",
+      "warranty": "5 years"
+    }
+  },
+  {
+    "name": "Cordless Drill Set",
+    "category": "Home & Garden",
+    "brand": "PowerTools",
+    "description": "18V cordless drill with battery and charger included",
+    "price": 89.99,
+    "specifications": {
+      "voltage": "18V",
+      "battery": "2.0Ah Li-ion",
+      "chuck_size": "13mm",
+      "torque": "50Nm",
+      "includes": ["Drill", "Battery", "Charger", "Carrying case"]
+    }
+  }
+]
